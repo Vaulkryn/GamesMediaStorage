@@ -1,5 +1,5 @@
 - **Nouveau nom**
-  - GamesMediaStorage
+  - GamesMediaStorage (anciennement lebureaudugame)
 
 - **Nouvelle fonction**
   - Il n'y aura pas toute la partie "sociale" du genre les commentaires, les appréciations, les "likes", les vues etc

@@ -1,5 +1,5 @@
 # GamesMediaStorage
-Ce projet est une archive sur lequel j'ai commencé à apprendre le code, le développement en général.</br>
+Ce projet est une archive sur laquelle j'ai commencé à apprendre le code et le développement en général.</br>
 Le but à l'époque était de reprendre grossièrement les fonctionnalités de YouTube.</br>
 
 Il est toujours représentatif de mes connaissances actuelles sur certains aspects mais plus sur d'autres,</br>
@@ -10,4 +10,4 @@ J'ai pensé à réutiliser l'architecture de ce site pour en faire un nouveau, p
 J'ai noté mes idées ici: __[GuideLine](./GuideLine.md)__
 
 ## License
-Le projet ShapedCore est sous licence MIT.
+Le projet GamesMediaStorage est sous licence MIT.
